@@ -1,0 +1,8 @@
+<Application x:Class="KrishnaTypingMaster.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <!-- यहाँ हम भविष्य में पूरे ऐप के लिए रंग या स्टाइल रख सकते हैं -->
+    </Application.Resources>
+</Application>
